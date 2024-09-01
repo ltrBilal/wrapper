@@ -1,0 +1,7 @@
+# this file contains the memory configuration, i.e. the various rules
+# each rule must be presented in hexadecimal mode
+# you can add comment in this file using the symbol '#'
+#########################################################################################
+081F
+907C
+347E
